@@ -1,8 +1,7 @@
 # strapi-provider-email-nodemailer
 
-Nodemailer provider for Strapi with attacments support for latest Strapi versions.
-
-Made by [Automat-IT](https://www.automat-it.com/)
+Nodemailer provider for Strapi with attacments support for latest Strapi versions.   
+Fork adding cc and bcc support.
 
 ## Resources
 
