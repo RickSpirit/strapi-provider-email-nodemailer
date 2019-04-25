@@ -16,5 +16,5 @@ Fork adding cc and bcc support.
 ## Installation
 
 ```bash
-npm i strapi-provider-email-nodemailer
+npm i @rickspirit:strapi-provider-email-nodemailer
 ```

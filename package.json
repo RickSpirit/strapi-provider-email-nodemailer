@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-email-nodemailer",
   "version": "1.0.2",
-  "description": "Nodemailer provider for Strapi with attacments support for latest Strapi versions.",
+  "description": "Nodemailer provider for Strapi with all options support for Strapi.",
   "main": "./lib",
   "directories": {
     "lib": "./lib"
@@ -15,21 +15,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yutikom/strapi-provider-email-nodemailer.git"
+    "url": "git+https://github.com/RickSpirit/strapi-provider-email-nodemailer.git"
   },
   "keywords": [
     "Strapi",
-    "Automat-IT",
     "Email",
-    "Provider"
+    "Provider",
+    "RickSpirit"
   ],
-  "author": "Yurii Tykhomyrov",
+  "author": "RickSpirit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yutikom/strapi-provider-email-nodemailer/issues"
+    "url": "https://github.com/RickSpirit/strapi-provider-email-nodemailer/issues"
   },
   "strapi": {
     "isProvider": true
   },
-  "homepage": "https://github.com/yutikom/strapi-provider-email-nodemailer#readme"
+  "homepage": "https://github.com/RickSpirit/strapi-provider-email-nodemailer#readme"
 }
